@@ -27607,6 +27607,24 @@
       "actionid": 7009,
       "actioncode": "",
       "tenantId": "pb"
+    }
+	    {
+      "rolecode": "SWACH_STATE_EMP",
+      "actionid": 7010,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SWACH_STATE_EMP",
+      "actionid": 7011,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SWACH_STATE_EMP",
+      "actionid": 7012,
+      "actioncode": "",
+      "tenantId": "pb"
     }  
    ]
 }
